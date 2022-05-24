@@ -47,6 +47,7 @@
 - [awiswasi](https://github.com/awiswasi/)
 - [Oscar](https://github.com/zitrocode)
 - [Ronak](https://github.com/ronakvir)
+
 - [Jacob Hamilton](https://github.com/jacob-hamilton)
 - [Mbaziira Ronald](https://github.com/mbaziiraronald)
 - [Adam McFillin](https://github.com/amcfillin)
@@ -85,6 +86,7 @@
 - [Emmanuel Anuoluwa Bamidele](https://github.com/Emmanuel-Bamidele)
 - [Poirei Ngamba Singha K](https://github.com/poirei)
 - Mason C
+- [Ganesh](https://github.com/ganeshpatil386386)
 - [edgarbc] (https://github.com/edgarbc)
 - [Soumen samanta](https://github.com/soumen246)
 - [Your Mum](https://github.com/SowmeshSharma0411)
